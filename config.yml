@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Uncurl.dev Documentation
+    url: https://uncurl.dev/docs
+    about: Check our documentation for answers to common questions
+  - name: Uncurl.dev Website
+    url: https://uncurl.dev
+    about: Visit our website for more information about Uncurl.dev 
